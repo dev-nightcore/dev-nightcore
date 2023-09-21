@@ -7,7 +7,7 @@
 ---
 ### I Use 🖥️
 ![macos image](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white) 
-![windows image](https://img.shields.io/badge/windows%20os-000000?style=for-the-badge&logo=windows&logoColor=white) 
+![windows image](https://img.shields.io/badge/windows-000000?style=for-the-badge&logo=windows&logoColor=white) 
 
 ### Links 🔗
 [![telegram image](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/nvidia_gddr6) 
