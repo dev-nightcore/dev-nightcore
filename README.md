@@ -13,4 +13,4 @@
 ### Links 🔗
 [![telegram image](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/nvidia_gddr6) 
 [![steam image](https://img.shields.io/badge/Steam-171D25?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/dev-nightcore) 
-[![discord image](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)] ()
+[![discord image](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)] (https://discord.gg/4CMPAq5FRe)
